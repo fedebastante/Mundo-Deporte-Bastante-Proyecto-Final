@@ -113,4 +113,8 @@ padding: 1.25rem;
 @media (max-width: 414px) {
 div div img {
 height: 200px;
-}
+}}
+@media (max-width: 414px) {
+.card {
+margin-top: 50px;
+}}
