@@ -6,6 +6,12 @@ footer .img-fluid {
 width: 100px;
 height: 100px;
 }
+header {
+background-color: black;
+}
+footer {
+background-color: black;
+}
 body {
 background-color: orange;
 padding: 0px;
