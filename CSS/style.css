@@ -90,7 +90,8 @@ h6 {
 color: orange;
 font-style: italic;
 font-family: 'Ubuntu', sans-serif;
-font-weight: 300;	
+font-weight: 300;
+padding-top: 20px;	
 }
 .pcarousel {
 color: white;
