@@ -69,6 +69,12 @@ font-weight: 300;
 padding-top: 20px;
 padding-bottom: 20px;
 }
+.letrafooter {
+color: orange;
+font-style: italic;
+font-family: 'Ubuntu', sans-serif;
+font-weight: 300;
+}
 h5 {
 color: white;
 text-align: center;
