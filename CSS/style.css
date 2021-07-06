@@ -160,8 +160,8 @@ margin-top: 50px;
 .distfooter {
 padding-bottom: 20px;
 }
-nav {
-color: yellow;	
+.bg-light {
+background-color: yellow !important;
 }
 }
 @media (min-width: 1024px) {
