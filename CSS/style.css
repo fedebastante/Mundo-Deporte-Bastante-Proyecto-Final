@@ -129,6 +129,9 @@ background-color: black;
 .fotos {
 padding: 1.25rem;
 }
+.centro {
+text-align: center;
+}
 @media (max-width: 414px) {
 div div img {
 height: 200px;
