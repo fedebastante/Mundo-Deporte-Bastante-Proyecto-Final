@@ -30,6 +30,9 @@ color: orange;
 .bg-light {
 background-color: black !important;
 }
+a {
+color: orange;
+}
 .alinear {
 align-items: center;
 }
