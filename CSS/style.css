@@ -28,10 +28,10 @@ width: 100px;
 color: orange;
 }
 .bg-light {
-background-color: black !important;
+background-color: black;
 }
 .colores {
-color: orange;
+color: orange !important;
 }
 .alinear {
 align-items: center;
