@@ -6,7 +6,7 @@ footer .img-fluid {
 width: 100px;
 height: 100px;
 }
-header {
+nav {
 background-color: black;
 }
 footer {
@@ -28,7 +28,7 @@ padding-top: 50px;
 svg {
 height: 100px;
 width: 100px;
-color: black;
+color: orange;
 }
 .bg-light {
 background-color: orange !important;
