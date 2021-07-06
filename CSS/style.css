@@ -69,7 +69,7 @@ font-weight: 300;
 padding-top: 20px;
 padding-bottom: 20px;
 }
-.letrafooter {
+footer h2 {
 color: orange;
 font-style: italic;
 font-family: 'Ubuntu', sans-serif;
@@ -85,6 +85,12 @@ font-weight: 700;
 padding-top: 50px;
 padding-bottom: 20px;
 filter: drop-shadow(1px 1px);
+}
+h6 {
+color: orange;
+font-style: italic;
+font-family: 'Ubuntu', sans-serif;
+font-weight: 300;	
 }
 .pcarousel {
 color: white;
