@@ -6,9 +6,6 @@ footer .img-fluid {
 width: 100px;
 height: 100px;
 }
-nav {
-background-color: black;
-}
 footer {
 background-color: black;
 }
@@ -31,7 +28,7 @@ width: 100px;
 color: orange;
 }
 .bg-light {
-background-color: orange !important;
+background-color: black !important;
 }
 .alinear {
 align-items: center;
