@@ -14,7 +14,7 @@ background-color: orange;
 padding: 0px;
 margin: 0px;
 }
-div div img {
+.carrusel {
 height: 500px;
 padding-left: 10px;
 padding-right: 10px;
