@@ -39,6 +39,9 @@ color: orange !important;
 .alinear {
 align-items: center;
 }
+.distcard {
+padding-top: 20px;
+}
 .subtitulo {
 color: black;
 text-align: center;
