@@ -27,8 +27,8 @@ height: 100px;
 width: 100px;
 color: orange;
 }
-.bg-light {
-background-color: black;
+nav {
+background-color: black !important;
 }
 .colores {
 color: orange !important;
