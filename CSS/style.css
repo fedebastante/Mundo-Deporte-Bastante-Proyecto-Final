@@ -117,6 +117,9 @@ font-weight: 300;
 padding-top: 20px;
 filter: drop-shadow(1px 1px);
 }
+.sombra {
+filter: drop-shadow(1px 1px);
+}
 .pcarousel {
 color: white;
 filter: drop-shadow(1px 1px);
