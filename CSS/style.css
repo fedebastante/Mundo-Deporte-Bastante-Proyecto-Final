@@ -56,10 +56,12 @@ color: orange;
 font-family: 'Newsreader', serif;
 font-weight: 300;
 margin-bottom: 0px;
+filter: drop-shadow(1px 1px);
 }
 .negrita {
 font-family: 'Newsreader', serif;
 font-weight: 800;
+filter: drop-shadow(1px 1px);
 }
 .table {
 color: orange;
