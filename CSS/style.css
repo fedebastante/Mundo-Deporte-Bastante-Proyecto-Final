@@ -67,12 +67,12 @@ background-color: black;
 }
 td {
 font-family: 'Newsreader', serif;
-font-weight: 200;
+font-weight: 300;
 filter: drop-shadow(1px 1px);
 }
 th {
 font-family: 'Newsreader', serif;
-font-weight: 300;
+font-weight: 800;
 filter: drop-shadow(1px 1px);
 }
 .cartas {
