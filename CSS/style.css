@@ -67,12 +67,11 @@ background-color: black;
 }
 td {
 font-family: 'Newsreader', serif;
-font-weight: 300;
+font-weight: 200;
 filter: drop-shadow(1px 1px);
 }
 th {
 font-family: 'Newsreader', serif;
-font-style: bold;
 font-weight: 300;
 filter: drop-shadow(1px 1px);
 }
