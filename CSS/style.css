@@ -185,7 +185,7 @@ padding-bottom: 20px;
 padding-top: 20px;
 }
 form {
-padding-left: 0px;
+padding-left: 15px !important;
 }
 .navbar-toggler {
 background-color: orange !important;
