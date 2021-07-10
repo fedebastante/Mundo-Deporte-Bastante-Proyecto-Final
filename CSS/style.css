@@ -67,6 +67,9 @@ background-color: black;
 font-family: 'Newsreader', serif;
 font-weight: 300;
 }
+th {
+filter: drop-shadow(1px 1px);
+}
 .cartas {
 padding-bottom: 20px;
 }
