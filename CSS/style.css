@@ -136,7 +136,8 @@ filter: drop-shadow(1px 1px);
 form {
 color: black;
 font-family: 'Newsreader', serif;
-font-weight: 300;
+font-weight: 200;
+font-style: italic;
 }
 article div img {
 width: 300px;
