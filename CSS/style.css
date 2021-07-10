@@ -139,6 +139,10 @@ font-family: 'Newsreader', serif;
 font-weight: 200;
 font-style: italic;
 }
+.foto-form {
+height: 150px;
+width: 300px;
+}
 article div img {
 width: 300px;
 height: 150px;
