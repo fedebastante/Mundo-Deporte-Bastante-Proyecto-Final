@@ -191,6 +191,9 @@ padding-left: 15px !important;
 .navbar-toggler {
 background-color: orange !important;
 }
+.distnav {
+padding-top: 20px;
+}
 }
 @media (min-width: 1024px) {
 .card
