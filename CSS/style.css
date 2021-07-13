@@ -159,6 +159,7 @@ height: 200px;
 }
 .boxcontacto {
 margin-top: 30px;
+padding-left: 50px !important;
 }
 .card {
 background-color: black;
